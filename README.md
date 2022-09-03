@@ -4,7 +4,5 @@ A simple productivity tool to help you stay focused by blocking distracting webs
 
 ### How to Use
 
-Go to line 8 to 16 and modify configurations accordingly.
-
-Run the script as an administrator 
+Go to line 8 to 16 and modify configurations accordingly, then run the script as an administrator:
 > python web_blocker.py
